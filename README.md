@@ -1,4 +1,4 @@
-#Signpost
+# Signpost
 Project 0 in my CS61B class (Data Structures). 
 
 Signpost is a puzzle game of sorts. 
