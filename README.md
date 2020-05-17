@@ -11,8 +11,8 @@ If A and B are both already numbered, their numbers must be consecutive for them
 
 If a square initially has a number on the unsolved board, it must be the number of that square in the sequence of connected squares. Such squares are said to be fixed. The start and the goal are always fixed.
 
-When playing the game, the player is not obligated to start forming the sequence from the start. Two connectable squares can be connected even if they are unnumbered. That is, we can form groups of connected squares on the board, which may be connected later to form the solution sequence. If a group does not contain a numbered square, its squares are assigned a letter and an offset. For example, a, a + 1, a + 2 for the 1st, 2nd, and 3rd squares in the group's sequence. Once an unnumbered group is connected to a group whose squares are numbered, the members of the unnumbered group become numbered appropriately.
+When playing the game, the player is not obligated to start forming the sequence from the start. Two connectable squares can be connected even if they are unnumbered. That is, we can form groups of connected squares on the board, which may be connected later to form the solution sequence. If a group does not contain a numbered square, its squares are assigned a letter and an offset. F Once an unnumbered group is connected to a group whose squares are numbered, the members of the unnumbered group become numbered appropriately.
 
-### More details about the project [here!](https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/proj/proj0/index.html)
+### More details about the project and some examples of the game [here!](https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/proj/proj0/index.html)
 #### Note: we were provided skeleton code
 
